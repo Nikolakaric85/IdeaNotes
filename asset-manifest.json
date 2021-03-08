@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IdeaNotes/static/css/main.5f361e03.chunk.css",
+    "main.js": "/IdeaNotes/static/js/main.30a43076.chunk.js",
+    "main.js.map": "/IdeaNotes/static/js/main.30a43076.chunk.js.map",
+    "runtime-main.js": "/IdeaNotes/static/js/runtime-main.623b92ac.js",
+    "runtime-main.js.map": "/IdeaNotes/static/js/runtime-main.623b92ac.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/IdeaNotes/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.dcf048de.chunk.js": "/IdeaNotes/static/js/2.dcf048de.chunk.js",
+    "static/js/2.dcf048de.chunk.js.map": "/IdeaNotes/static/js/2.dcf048de.chunk.js.map",
+    "index.html": "/IdeaNotes/index.html",
+    "precache-manifest.d467844a169f459510116fe88a9bdfca.js": "/IdeaNotes/precache-manifest.d467844a169f459510116fe88a9bdfca.js",
+    "service-worker.js": "/IdeaNotes/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/IdeaNotes/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/IdeaNotes/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dcf048de.chunk.js.LICENSE.txt": "/IdeaNotes/static/js/2.dcf048de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623b92ac.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.dcf048de.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.30a43076.chunk.js"
+  ]
+}
